@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RestMyEye.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestMyEye_main_jar</output-path>
+    <root id="archive" name="RestMyEye.main.jar">
+      <element id="module-output" name="RestMyEye.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.vincenzopalazzo/material-ui-swing/1.1.2/7ade5ca9d9ebfe6195c06e1a2419391ae59bc7e6/material-ui-swing-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jiconfont/jiconfont-swing/1.0.1/14621054d72340b4a664cce4710ba974a3882a19/jiconfont-swing-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jhlabs/filters/2.0.235/af6a2dfefef70f1ab2d7a8d1f8173f67e276b3f4/filters-2.0.235.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.swinglabs/swing-worker/1.1/2392206f318ef3af02f8e8a30b2963c253a70390/swing-worker-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.swinglabs/swingx/1.6.1/a4abf05f5f1d3b020ec4099495dcd1452b615e26/swingx-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jiconfont/jiconfont/1.0.0/e17d93321975b6735ebc283f6832fa0350614d3a/jiconfont-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
